@@ -1,0 +1,9 @@
+/admin
+/.git/
+/backup.zip
+/phpinfo.php
+/.env
+/config.php
+/test
+/dev
+/old
